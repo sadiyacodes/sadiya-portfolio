@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "TopShelf",
+        "description": "Top Shelf is a fully functional e-commerce platform for skincare. Built using MERN stack. A complete online skincare solution, from product browsing to secure purchasing ",
+        "tags": [
+            "React",
+            "NodeJS",
+            "MongoDB",
+            "Express"
+        ],
+        "links": [
+            {
+                "live": "",
+                "github": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Crypto Watch",
+        "description": "A Crypto tracker project which tracks cryptocurrency performance in real-time with comprehensive charts.",
+        "tags": [
+            "React",
+            "MaterialUI",
+            "tailwindcss"
+        ],
+        "links": [
+            {
+                "live": "https://crypto-watch-101.vercel.app/",
+                "github": "https://github.com/sadiyacodes/crypto-watch"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Web Playground",
+        "description": "Online code editor - for web development. HTML , CSS , JS and live output",
+        "tags": [
+            "React"
+        ],
+        "links": [
+            {
+                "live": "https://web-playground-11.vercel.app/",
+                "github": "https://github.com/sadiyacodes/web-playground"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Git Radar",
+        "description": "GitRadar is a React-based app for quick GitHub user-profile searches",
+        "tags": [
+            "React",
+            "MaterialUI"
+        ],
+        "links": [
+            {
+                "live": "https://git-radar.vercel.app/",
+                "github": "https://github.com/sadiyacodes/git-radar"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Sky Watch",
+        "description": "Weather at your fingertips – clear, concise, and always accurate.",
+        "tags": [
+            "React",
+            "MaterialUI"
+        ],
+        "links": [
+            {
+                "live": "https://sky-watch-11.vercel.app/",
+                "github": "https://github.com/sadiyacodes/SkyWatch"
+            }
+        ]
+    }
+   
+]
