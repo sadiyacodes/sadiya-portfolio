@@ -1,3 +1,40 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    :root {
+        --web-color-greyscale-100: 240 6% 90%;
+      
+    }
+}
+@layer components{
+    .web-button {
+        display: inline-block;
+        padding: 0.75rem 1.5rem; /* Equivalent to py-3 px-6 */
+        background-color: rgba(253, 54, 110, 0.05); /* Subtle pinkish background */
+        color: white;
+        font-weight: 600;
+        border-radius: 0.75rem; /* Smooth rounded corners */
+        border: 1px solid rgba(253, 54, 110, 0.48); /* Pink border */
+        text-align: center;
+        /* text-transform: uppercase; */
+        font-size: 1rem; /* Base font size */
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+      }
+      
+      .web-button:hover {
+        background-color: rgba(253, 54, 110, 0.1); /* Darker pink background on hover */
+        box-shadow: 0 -6px 10px rgba(253, 54, 110, 0.1) inset; /* Inner shadow on hover */
+        border-color: rgba(253, 54, 110, 0.7); /* Darker pink border on hover */
+      }
+      
+      .web-button:focus {
+        outline: none;
+        box-shadow: 0 0 0 4px rgba(253, 54, 110, 0.5); /* Pink focus ring */
+      }
+      
+      
+           
+}

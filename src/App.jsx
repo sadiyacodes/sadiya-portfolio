@@ -1,13 +1,16 @@
 
 import './App.css'
+import Header from './components/Header'
+import HeroSection from './components/HeroSection'
 import Footer from './components/Footer'
 function App() {
  
 
   return (
     <>
-     <h1 className="text-3xl text-white font-bold underline flex justify-center">hey! its Sadiya</h1>
-     <Footer/>
+      <Header/>
+      <HeroSection/>
+      <Footer/>
     </>
   )
 }
