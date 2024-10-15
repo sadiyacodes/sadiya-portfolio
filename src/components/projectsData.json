@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "TopShelf",
+        "title": "Top Shelf",
         "description": "Top Shelf is a fully functional e-commerce platform for skincare. Built using MERN stack. A complete online skincare solution, from product browsing to secure purchasing ",
-        "tags": [
+        "techStack": [
             "React",
             "NodeJS",
             "MongoDB",
@@ -12,7 +12,7 @@
         "links": [
             {
                 "live": "",
-                "github": ""
+                "github": "https://github.com/sadiyacodes/top-shelf"
             }
         ]
     },
@@ -20,7 +20,7 @@
         "id": 2,
         "title": "Crypto Watch",
         "description": "A Crypto tracker project which tracks cryptocurrency performance in real-time with comprehensive charts.",
-        "tags": [
+        "techStack": [
             "React",
             "MaterialUI",
             "tailwindcss"
@@ -36,7 +36,7 @@
         "id": 3,
         "title": "Web Playground",
         "description": "Online code editor - for web development. HTML , CSS , JS and live output",
-        "tags": [
+        "techStack": [
             "React"
         ],
         "links": [
@@ -50,7 +50,7 @@
         "id": 4,
         "title": "Git Radar",
         "description": "GitRadar is a React-based app for quick GitHub user-profile searches",
-        "tags": [
+        "techStack": [
             "React",
             "MaterialUI"
         ],
@@ -65,7 +65,7 @@
         "id": 5,
         "title": "Sky Watch",
         "description": "Weather at your fingertips – clear, concise, and always accurate.",
-        "tags": [
+        "techStack": [
             "React",
             "MaterialUI"
         ],
