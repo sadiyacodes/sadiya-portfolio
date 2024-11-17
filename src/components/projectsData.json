@@ -2,79 +2,83 @@
     {
         "id": 1,
         "title": "Top Shelf",
+        "image": "/projectimages/topshelfTN.PNG",
         "description": "Top Shelf is a fully functional e-commerce platform for skincare. Built using MERN stack. A complete online skincare solution, from product browsing to secure purchasing ",
         "techStack": [
             "React",
             "NodeJS",
             "MongoDB",
-            "Express"
+            "Express",
+            "Tailwind"
         ],
-        "links": [
-            {
-                "live": "",
-                "github": "https://github.com/sadiyacodes/top-shelf"
-            }
-        ]
+        "live": "https://topshelf-11.vercel.app/",
+        "github": "https://github.com/sadiyacodes/top-shelf"
     },
     {
         "id": 2,
         "title": "Crypto Watch",
+        "image": "/projectimages/cryptowatchTN.PNG",
         "description": "A Crypto tracker project which tracks cryptocurrency performance in real-time with comprehensive charts.",
         "techStack": [
             "React",
             "MaterialUI",
-            "tailwindcss"
+            "Tailwind"
         ],
-        "links": [
-            {
-                "live": "https://crypto-watch-101.vercel.app/",
-                "github": "https://github.com/sadiyacodes/crypto-watch"
-            }
-        ]
+        "live": "https://crypto-watch-101.vercel.app/",
+        "github": "https://github.com/sadiyacodes/crypto-watch"
     },
     {
         "id": 3,
         "title": "Web Playground",
+        "image": "/projectimages/webplaygroundTN.PNG",
         "description": "Online code editor - for web development. HTML , CSS , JS and live output",
         "techStack": [
-            "React"
+            "React",
+            "Javascript",
+            "CSS"
         ],
-        "links": [
-            {
-                "live": "https://web-playground-11.vercel.app/",
-                "github": "https://github.com/sadiyacodes/web-playground"
-            }
-        ]
+        "live": "https://web-playground-11.vercel.app/",
+        "github": "https://github.com/sadiyacodes/web-playground"
     },
     {
         "id": 4,
         "title": "Git Radar",
+        "image": "/projectimages/gitradarTN.PNG",
         "description": "GitRadar is a React-based app for quick GitHub user-profile searches",
         "techStack": [
             "React",
+               "Javascript",
             "MaterialUI"
+         
         ],
-        "links": [
-            {
-                "live": "https://git-radar.vercel.app/",
-                "github": "https://github.com/sadiyacodes/git-radar"
-            }
-        ]
+        "live": "https://git-radar.vercel.app/",
+        "github": "https://github.com/sadiyacodes/git-radar"
     },
     {
         "id": 5,
         "title": "Sky Watch",
+        "image": "/projectimages/SKYWATCHTN.PNG",
         "description": "Weather at your fingertips – clear, concise, and always accurate.",
         "techStack": [
             "React",
+            "Javascript",
             "MaterialUI"
         ],
-        "links": [
-            {
-                "live": "https://sky-watch-11.vercel.app/",
-                "github": "https://github.com/sadiyacodes/SkyWatch"
-            }
-        ]
+        "live": "https://sky-watch-11.vercel.app/",
+        "github": "https://github.com/sadiyacodes/SkyWatch"
     }
-   
+    ,
+    {
+        "id": 6,
+        "title": "Currency Converter",
+        "image": "/projectimages/currencyconvTN.PNG",
+        "description": "React application for real-time currency conversion, leveraging a custom React hook to provide accurate and up-to-date exchange rates.",
+        "techStack": [
+            "React",
+            "Javascript",
+            "Tailwind"
+        ],
+        "live": "https://currency-converter-11.netlify.app/",
+        "github": "https://github.com/sadiyacodes/currency-converter"
+    }
 ]

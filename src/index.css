@@ -4,9 +4,11 @@
 
 @layer base {
     :root {
-        --web-color-greyscale-100: 240 6% 90%;
-      
-    }
+         --web-color-greyscale-100: 240 6% 90%;
+         --projectcard-bg : 35 35 37;
+         --accent: 0 0% 14.9%;
+    --accent-foreground: 0 0% 98%;
+      }
 }
 @layer components{
     .web-button {

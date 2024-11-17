@@ -20,7 +20,7 @@ const Footer = () => {
 
     {/* credits */}
 
-     <div className="text-center w-full flex space-x-2 justify-center items-center  text-zinc-600 absolute bottom-4">
+     <div className="text-center w-full flex space-x-2 justify-center items-center  text-zinc-600 ">
       <span>Designed with </span>
       <img src="assets/tailwind-css.svg" className="w-6 h-6 " />
       <span>&</span>
