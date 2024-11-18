@@ -125,7 +125,7 @@ const ProjectCard = ({project}) => {
           <div className="mt-4 flex gap-2">
                <Link
                to={project.live}
-               className="inline-flex items-center justify-center rounded-md bg-pink px-4 py-2 text-sm font-medium text-ll_btn_col shadow transition-colors hover:bg-pink/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+               className="inline-flex items-center justify-center rounded-md bg-pink px-4 py-2 text-sm font-medium text-white shadow transition-colors hover:bg-pink/50 hover:text-white focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
                target="_blank"
             rel="noopener noreferrer">
                           <ExternalLinkIcon className="mr-2 h-4 w-4" />
@@ -134,7 +134,7 @@ const ProjectCard = ({project}) => {
 
                <Link
             to={project.github}
-            className="inline-flex items-center justify-center rounded-md  bg-pink text-white px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+            className="inline-flex items-center justify-center rounded-md  bg-pink text-white px-4 py-2 text-sm font-medium shadow-sm transition-colors hover:bg-black/60 hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
             target="_blank"
             rel="noopener noreferrer"
           >

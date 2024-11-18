@@ -11,8 +11,8 @@ const Projects = () => {
                     Built()
                 </span>
                 </h2>  
-                <p className='"max-w-[900px] text-white/50 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
-                        Checkout some of the projects I have worked on. I've built a portfolio showcasing my skills & creativity.
+                <p className='max-w-[750px] text-white/50 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed'>
+                        Checkout some of the projects I have worked on. From simple websites to complex web applications, I've built a diverse portfolio showcasing my skills & creativity.
                 </p>
       </div>
 

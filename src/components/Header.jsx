@@ -9,7 +9,7 @@ const Header = () => {
 
       {/* Logo on the leftmost corner */}
     <div className='flex-shrink-0'>
-        <img src="/assets/SadiyaLogo.png" alt="Logo" className='w-20 h-20' />
+        <img src="/assets/SadiyaLogoSmall.png" alt="Logo" className='w-20 h-20' />
     </div>
 
       {/* Navigation - Hidden on small screens */}
