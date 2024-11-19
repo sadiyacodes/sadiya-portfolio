@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Top Shelf",
         "image": "/projectimages/topshelfTN.PNG",
-        "description": "Top Shelf is a fully functional e-commerce platform for skincare. Built using MERN stack. A complete online skincare solution, from product browsing to secure purchasing ",
+        "description": "A fully functional e-commerce platform. Built using MERN stack. A complete online skincare solution, from product browsing to secure purchasing",
         "techStack": [
             "React",
             "NodeJS",
