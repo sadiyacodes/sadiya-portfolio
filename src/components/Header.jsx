@@ -15,10 +15,10 @@ const Header = () => {
       {/* Navigation - Hidden on small screens */}
         <nav className='absolute left-1/2 transform -translate-x-1/2 hidden sm:flex gap-1 p-0.5 border border-pink rounded-full bg-greybg backdrop-blur'>
             <a href="#" className='px-4 py-1.5 rounded-full text-white/70 text-md hover:bg-white/15 hover:text-white transition duration-300'>Home</a>
-            <a href="#" className='px-4 py-1.5 rounded-full text-white/70 text-md  hover:bg-white/15 hover:text-white transition duration-300'>Experience</a>
-            <a href="#" className='px-4 py-1.5 rounded-full text-white/70 text-md hover:bg-white/15 hover:text-white transition duration-300'>Projects</a>
-            <a href="#" className='px-4 py-1.5 rounded-full text-white/70 text-md  hover:bg-white/15 hover:text-white transition duration-300'>Skills</a>
-            <a href="#" className='px-4 py-1.5 rounded-full text-white/70 text-md   hover:bg-white/15 hover:text-white transition duration-300'>Contact</a>
+            <a href="#about" className='px-4 py-1.5 rounded-full text-white/70 text-md  hover:bg-white/15 hover:text-white transition duration-300'>Experience</a>
+            <a href="#projects" className='px-4 py-1.5 rounded-full text-white/70 text-md hover:bg-white/15 hover:text-white transition duration-300'>Projects</a>
+            <a href="#about" className='px-4 py-1.5 rounded-full text-white/70 text-md  hover:bg-white/15 hover:text-white transition duration-300'>Skills</a>
+            <a href="#contact" className='px-4 py-1.5 rounded-full text-white/70 text-md   hover:bg-white/15 hover:text-white transition duration-300'>Contact</a>
          </nav>
 
           {/* Hamburger Menu - Only visible on small screens */}
