@@ -7,7 +7,7 @@ const HeroSection = () => {
         Sadiya Parveen
           </span>
          <div className="max-w-2xl mx-auto space-y-6">
-          <h1 className="text-white/90 text-4xl md:text-5xl font-bold text-center tracking-tight">Full Stack Developer</h1>
+          <h1 className="text-white/90 text-3xl md:text-4xl font-bold text-center tracking-tight">Full Stack Developer</h1>
           <p className=" text-white/90 text-lg md:text-xl text-center">
             Crafting seamless experiences with expertise in both frontend and backend development.
           </p>

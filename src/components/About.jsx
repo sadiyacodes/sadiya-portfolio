@@ -16,18 +16,23 @@ const About = () => {
             </p>
           </div>
 
-          <div className="space-y-4">
-           
-          <h2 className="text-3xl text-white font-bold tracking-tighter md:text-4xl/tight">Work Experience</h2>
-            <p className="max-w-[600px] text-white/50 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-            <span className="font-bold text-red-500 "> Cognizant</span> 
+          <div className="grid gap-4">
+            <div className="grid gap-1">
+              <h3 className="text-xl text-white font-bold">Work Experience</h3>
+              <p className="text-white/50">
+              <span className="font-bold text-red-500 "> Cognizant</span> 
               &nbsp; <span className='md:text-base/normal lg:text-sm/normal xl:text-base/relaxed'> (Aug 2021 - Jan 2023)</span>
-            
-             <p className='italic md:text-base/normal lg:text-sm/normal xl:text-base/relaxed '>Programmer Analyst</p>
-             <br />
-             <p className='md:text-base/normal lg:text-sm/normal xl:text-base/relaxed'>dsjdjsfhdsvhdvczvcbdvcdbvbcbdbv</p>
-            </p>
+              <p className='italic md:text-base/normal lg:text-sm/normal xl:text-base/relaxed '>Programmer Analyst</p>
+
+              </p>
            </div>
+           <div className="grid gap-1">
+              <h3 className="text-xl text-white font-bold">Skills</h3>
+              <p className="">
+                skills buttons -----
+              </p>
+            </div>
+       </div>
        </div>
     </section>
   )

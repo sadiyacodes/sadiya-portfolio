@@ -5,7 +5,8 @@ import HeroSection from './components/HeroSection'
 import Footer from './components/Footer'
 import Projects from './components/Projects'
 import About from './components/About'
-// import { IconCloudDemo } from "./components/IconCloudContainer"
+import { IconCloudDemo } from './components/IconCloud'
+
 function App() {
  
 
@@ -14,8 +15,8 @@ function App() {
       <Header/>
       <HeroSection/>
       <About/>
-      <Projects></Projects>
-      {/* <IconCloudDemo/> */}
+      <IconCloudDemo/>
+      <Projects/>      
       <Footer/>
     </>
   )
