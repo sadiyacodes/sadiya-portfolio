@@ -13,7 +13,7 @@ const HeroSection = () => {
             Crafting seamless experiences with expertise in both frontend and backend development.
           </p>
           <div class="flex md:ml-0 flex-row justify-center w-full md:mb-0 space-x-2 sm:space-x-4">
-            <a target="_blank" rel="noopener noreferrer" href="download" class="relative inline-block text-sm md:text-lg group">
+            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1T9itzjLO0h5KKB_ft2VWhtqb336eGn7F/view?usp=sharing" class="relative inline-block text-sm md:text-lg group">
                 <ShimmerButtonDemo/>
            </a>
           <a rel="noopener noreferrer" href="#contact" class="relative inline-block text-sm md:text-lg group">
